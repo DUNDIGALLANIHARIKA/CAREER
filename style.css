@@ -1,0 +1,22 @@
+p{
+   font weight:italic;
+   font size:24pt;
+   color:green;
+   }
+  
+ div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+h3{
+	font weight:bold;
+	color:black;
+	font size:24pt;
+}
+
+h4{
+	color:black;
+}
